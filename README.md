@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrutabanait" alt="amrutabanait" /></a> </p>
 
-- 🔭 I’m currently working on [Lynda Website Clone](https://github.com/amrutaBanait/Lynda)
-
 - 🌱 I’m currently learning **Full-Stack Web Development 📝**
 
 - 💬 Ask me about **HTML, CSS , JavaScript, react , Node , Express ,MongoDB, Git**
