@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrutabanait" alt="amrutabanait" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development 📝**
+- 🌱 I’m a **Full-Stack Web Developer 📝**
 
 - 💬 Ask me about **HTML, CSS , JavaScript, react , Node , Express ,MongoDB, Git**
 
