@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amrutabanait28@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1XbbMrENfG3Y60CrCZjzMoIv8fEQsYICW/view?usp=share_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1NNAJabqn5-4LRKRpBliA7dXvqECBA_Dw/view?usp=share_link
 
 - ⚡ Fun fact **I am always interested in creative things**
 
